@@ -8,7 +8,7 @@
 /**
  * Description of SimulasiController
  *
- * @author msu
+ * @author gun
  */
 require_once 'BaseController.php';
 class SimulasiController extends Web_BaseController {
