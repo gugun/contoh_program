@@ -8,7 +8,7 @@
 /**
  * Description of PartnerController
  *
- * @author msu
+ * @author gun
  */
 require_once 'BaseController.php';
 class PartnerController extends Web_BaseController {
